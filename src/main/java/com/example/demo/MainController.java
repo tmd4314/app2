@@ -10,6 +10,6 @@ public class MainController {
 	@GetMapping("/")
 	@ResponseBody
 	public String main() {
-		return "app2 main - kim yoomi ";
+		return "app2 main - lee sengmin ";
 	}
 }
